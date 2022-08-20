@@ -2,7 +2,7 @@
 It is a travel app make with react.js and use react hooks for instance useEfect and useState and use javascript , media queries to make app responseve.
 
 ## Live Site:  
-   - Link: https://ahmed-abo-rafat.github.io/GYM_EXERCISES/
+   - Link: https://ahmed-abo-rafat.github.io/Travel/
 
 ## Setup
 To run this project, install it locally using npm:
